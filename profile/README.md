@@ -49,15 +49,15 @@
 <div align="center">
 
 ### 🚀 提交想法
-**[💡 Feature Request](https://github.com/hb0730/fantasy-house/issues/new?template=feature_request.md)**  
+**[💡 Feature Request](https://github.com/fantasy-house/.github/issues/issues/new?template=feature_request.md)**  
 *有好想法？告诉我们！*
 
 ### 🐛 报告问题  
-**[🐛 Bug Report](https://github.com/hb0730/fantasy-house/issues/new?template=bug_report.md)**  
+**[🐛 Bug Report](https://github.com/fantasy-house/.github/issues/new?template=bug_report.md)**  
 *发现问题？帮我们修复！*
 
 ### 💬 交流讨论
-**[💬 Discussions](https://github.com/hb0730/fantasy-house/discussions)**  
+**[💬 Discussions](https://github.com/fantasy-house/.github/discussions)**  
 *想聊聊？欢迎讨论！*
 
 </div>
@@ -65,7 +65,6 @@
 ### 📧 其他联系方式
 
 - **项目维护者**：[@hb0730](https://github.com/hb0730)
-- **邮箱**：your-email@example.com
 - **微信**：（请通过 GitHub 联系）
 
 
