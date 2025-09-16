@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<img src="./screenshot/ma-QR.png" alt="Fantasy House 小程序码" width="200">
+<img src="../screenshot/ma-QR.png" alt="Fantasy House 小程序码" width="200">
 
 **扫码体验 Fantasy House 小程序**
 
