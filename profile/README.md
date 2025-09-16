@@ -49,7 +49,7 @@
 <div align="center">
 
 ### 🚀 提交想法
-**[💡 Feature Request](https://github.com/fantasy-house/.github/issues/issues/new?template=feature_request.md)**  
+**[💡 Feature Request](https://github.com/fantasy-house/.github/issues/new?template=feature_request.md)**  
 *有好想法？告诉我们！*
 
 ### 🐛 报告问题  
